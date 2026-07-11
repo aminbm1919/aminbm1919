@@ -14,7 +14,7 @@ A serverless **RAG backend** that turns a Custom GPT into a philosophy research 
 - Evidence-gated pipeline: only actually-read text is citable — candidates are never evidence
 - 9-shard D1 storage with R2 full-text offload, 4 lock-aware cron pipelines, ~90 ledgered deploys
 
-**→ Case study: [Engineering a Production RAG Backend on $0/month](https://github.com/aminbm1919/open-classical-text-worker/blob/main/docs/CASE_STUDY.md)**
+**→ Try it live: [hybrid search demo](https://chunking.aminbm1919.workers.dev/demo)** · **Case study: [Engineering a Production RAG Backend on $0/month](https://github.com/aminbm1919/open-classical-text-worker/blob/main/docs/CASE_STUDY.md)**
 
 ## What I build
 
